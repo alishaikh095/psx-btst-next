@@ -1,0 +1,7 @@
+node_modules
+.next
+next-env.d.ts
+signals/
+kmi_cache.json
+positions.json
+.env*.local
